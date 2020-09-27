@@ -1,0 +1,6 @@
+package-lock.json
+node_modules
+out.txt
+.DS_Store
+dist
+tmp-data
